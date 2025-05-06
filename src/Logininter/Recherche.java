@@ -26,7 +26,7 @@ public class Recherche extends javax.swing.JFrame {
     private Accesbdd accesBdD;
     private UtilisateurDAO UserDAO;
     private Connection connexion;
-   // private int selectedRow = -1;
+  
     private DefaultTableModel tableModel;
 
     /**
